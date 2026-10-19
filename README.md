@@ -13,7 +13,3 @@
   &nbsp; / &nbsp;
   <a href="https://github.com/zyc-chenli?tab=repositories">Code</a>
 </p>
-
-<p align="center">
-  Contact: <a href="mailto:Yucheng.Zhao23@student.xjtlu.edu.cn">Yucheng.Zhao23@student.xjtlu.edu.cn</a>
-</p>
