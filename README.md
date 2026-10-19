@@ -1,23 +1,15 @@
-<div align="center">
-
-# Hi there, I'm Yucheng 👋
-
-**Robotics · Embodied Intelligence · Generative AI**
-
-<p>
-  <a href="https://zyc-chenli.github.io"><img src="assets/portfolio.svg" height="28" alt="Portfolio and demos"></a>
-  &nbsp;
-  <a href="mailto:Yucheng.Zhao23@student.xjtlu.edu.cn"><img src="assets/email.svg" height="28" alt="Email me"></a>
+<p align="center">
+  <a href="https://zyc-chenli.github.io/"><img src="assets/lakeside-banner.jpg" width="100%" alt="An ink and watercolor lakeside landscape with pine branches, distant hills and moored boats"></a>
 </p>
 
-</div>
+<h1 align="center">Yucheng Zhao</h1>
 
-I'm a final-year **Telecommunications Engineering** undergraduate at **Xi’an Jiaotong-Liverpool University (XJTLU)**.
+<p align="center"><em>AI, robotics, and ideas in motion.</em></p>
 
-My interests lie in **robot learning, embodied intelligence, and generative models for human–machine interaction**. I enjoy building systems that bring learning algorithms together with sensing and control.
-
-Here I share selected projects, experiments, and things I learn along the way. You can find my research demonstrations on my [portfolio](https://zyc-chenli.github.io).
-
----
-
-**Working with** &nbsp; Python · PyTorch · ROS 2 · CAD · Embedded Systems
+<p align="center">
+  <a href="https://zyc-chenli.github.io/">Website</a>
+  &nbsp; / &nbsp;
+  <a href="https://zyc-chenli.github.io/#research">Selected work &amp; demos</a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/zyc-chenli?tab=repositories">Code</a>
+</p>
