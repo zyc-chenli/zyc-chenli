@@ -4,12 +4,14 @@
 
 <h1 align="center">Yucheng Zhao</h1>
 
-<p align="center"><em>AI, robotics, and ideas in motion.</em></p>
+<p align="center"><em>Controllable facial generation · Biomimetic robotics · Tactile perception</em></p>
 
 <p align="center">
   <a href="https://zyc-chenli.github.io/">Website</a>
   &nbsp; / &nbsp;
-  <a href="https://zyc-chenli.github.io/#research">Selected work &amp; demos</a>
+  <a href="https://zyc-chenli.github.io/#research">Research &amp; demos</a>
+  &nbsp; / &nbsp;
+  <a href="https://zyc-chenli.github.io/#projects">Engineering projects</a>
   &nbsp; / &nbsp;
   <a href="https://github.com/zyc-chenli?tab=repositories">Code</a>
 </p>
